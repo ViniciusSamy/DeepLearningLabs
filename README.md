@@ -1,7 +1,10 @@
 # DeepLearningLabs
 
-List of exercises to Neural Network and Deep Leaning. 
-All the credits to [Pedro Silva](https://csilab.ufop.br/people/pedro-silva) and [Eduardo Jose](https://csilab.ufop.br/people/eduardo-luz).
+Repositorio com implementações de modelos de apredizado profundo. As implementações foram desenvolvidas utilizando o TensorFlow e tendo como base a documentação oficial do TensoFlow e o matérial dos professores Pedro e Eduardo.
+
+Creditos: [Pedro Silva](https://csilab.ufop.br/people/pedro-silva) e [Eduardo Jose](https://csilab.ufop.br/people/eduardo-luz).
+
+## Implementações por Tópico
 
 [LAB 0 - NUMPY ARRAYS REVIEW](https://github.com/ViniciusSamy/DeepLearningLabs/blob/main/ViniciusSamy-Lab0.ipynb)
 
